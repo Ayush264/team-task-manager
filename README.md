@@ -2,9 +2,11 @@
 
 TaskFlow is a full-stack team collaboration and task management application built using React, Vite, and Supabase.
 
-The project allows admins to create projects, assign tasks to team members, and track task progress using a dashboard system.
+The application allows teams to manage projects collaboratively, assign tasks to members, and track progress through a centralized dashboard.
 
 ---
+## Live Demo
+https://team-task-manager-production-b8a3.up.railway.app
 
 ## Features
 
@@ -82,8 +84,8 @@ npm install
 Create `.env` file in project root:
 
 ```env
-VITE_SUPABASE_URL=https://sebufdcquerjivnjvptm.supabase.co
-VITE_SUPABASE_ANON_KEY=sb_publishable_bxPHRVJhojqhtER8PyOCmQ_bzwL8RjV
+VITE_SUPABASE_URL=YOUR_SUPABASE_URL
+VITE_SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_KEY
 ```
 
 Start development server:
