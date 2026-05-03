@@ -189,7 +189,7 @@ export default function Signup() {
               fontSize: 14,
             }}
           >
-            Join TaskFlow and start collaborating
+            Join WorkPilot and start collaborating
           </p>
         </div>
 

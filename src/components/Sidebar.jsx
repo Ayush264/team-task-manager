@@ -58,7 +58,7 @@ export default function Sidebar({ mobile, onClose }) {
             </svg>
           </div>
           <span style={{ fontFamily: "var(--font-display)", fontWeight: 700, fontSize: 17, color: "var(--text-primary)" }}>
-            TaskFlow
+            WorkPilot
           </span>
         </div>
         {mobile && (

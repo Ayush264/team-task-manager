@@ -43,7 +43,7 @@ export default function Layout({ children }) {
             </svg>
           </button>
           <span style={{ fontFamily: "var(--font-display)", fontWeight: 700, fontSize: 16, color: "var(--text-primary)" }}>
-            TaskFlow
+            WorkPilot
           </span>
         </header>
 

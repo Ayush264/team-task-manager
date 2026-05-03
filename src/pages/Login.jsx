@@ -70,7 +70,7 @@ export default function Login() {
             Welcome back
           </h1>
           <p style={{ color: "var(--text-secondary)", fontSize: 14 }}>
-            Sign in to your TaskFlow account
+            Sign in to your WorkPilot account
           </p>
         </div>
 
