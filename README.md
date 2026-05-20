@@ -6,6 +6,7 @@ The application allows teams to manage projects collaboratively, assign tasks to
 
 ---
 ## Live Demo
+https://team-task-manager-two-psi.vercel.app/
 https://team-task-manager-production-b8a3.up.railway.app
 
 ## Features
